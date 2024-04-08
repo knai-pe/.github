@@ -1,37 +1,22 @@
-# 📱 Knai: Navega la vida universitaria con facilidad!
+# 🎓 ¡Bienvenido a Knai!
 
-¡Bienvenido a Knai! 🎓 Esta aplicación móvil es tu compañero definitivo para navegar la vida universitaria, diseñada pensando en los estudiantes. Explora tu campus y descubre puntos de interés cercanos sin esfuerzo. 🌟
-
-## 🔍 Explora el Campus
-Con Knai, navega sin problemas por tu campus universitario utilizando un mapa interactivo. Encuentra aulas, bibliotecas y puntos de encuentro estudiantiles con facilidad. 🗺️
+Knai es tu compañero definitivo para explorar la vida universitaria con facilidad. Diseñado para estudiantes, esta aplicación te ayuda a navegar por tu campus, encontrar vivienda, descubrir lugares para comer y mantenerte activo. ¡Vamos a explorar juntos! 🚀
 
 ## 🏠 Vivienda Simplificada
-¿Buscas opciones de vivienda amigables para estudiantes? Knai simplifica el proceso, proporcionando listados con información detallada y opciones de contacto directo con los arrendadores. 🏘️
+¡Busca y encuentra la vivienda perfecta para ti! Knai te ofrece listados detallados con información y opciones de contacto directo con los arrendadores. 🏘️
 
 ## 🍽️ Encuentra Restaurantes
-¿Hambre? Descubre restaurantes y cafeterías cercanas que ofrecen descuentos para estudiantes y deliciosas comidas. 🥪
+¿Hambre? Descubre restaurantes y cafeterías cercanas con deliciosas opciones y descuentos para estudiantes. ¡No te pierdas las mejores comidas cerca de ti! 🥪
 
 ## 💪 Mantente Activo
-¡Mantente en forma y saludable con Knai! Encuentra gimnasios, instalaciones deportivas y lugares recreativos cerca del campus para mantenerte activo entre clases. 🏋️‍♂️
+¡Mantente en forma y saludable con Knai! Encuentra gimnasios, instalaciones deportivas y lugares recreativos para mantenerte activo entre clases. 🏋️‍♂️
 
 ## 🌟 Características Clave
-- Desarrollada con Flutter para una experiencia atractiva y eficiente multiplataforma.
-- La implementación sigue las mejores prácticas y se adhiere a los principios SOLID para la mantenibilidad y escalabilidad.
-- Mapa interactivo para una fácil navegación en el campus.
-- Listados detallados de viviendas, restaurantes y otros puntos de interés.
-- Opciones de filtrado para resultados de búsqueda personalizados.
-- Animaciones suaves para una experiencia de usuario encantadora.
+- **Diseño Multiplataforma:** Desarrollado con Flutter para una experiencia visual atractiva en cualquier dispositivo.
+- **Sólida Implementación:** Seguimos las mejores prácticas y principios SOLID para una aplicación robusta y escalable.
+- **Interfaz Amigable:** Navegación intuitiva, listados detallados y opciones de filtrado para una experiencia de usuario encantadora.
 
-## 🚀 Tecnologías Utilizadas
-- Flutter para desarrollo móvil multiplataforma.
-- NestJS para la API backend.
-- PostgreSQL para gestión de base de datos.
-- Next.js para el frontend web.
+## 🚀 Comienza con Knai
+Descarga Knai hoy mismo y simplifica tu experiencia universitaria. ¡Únete a nuestra comunidad y exploremos juntos el mundo universitario! 🎉
 
-## 👨‍💻 Contribuciones Bienvenidas
-¡Ya sea que estés corrigiendo errores, agregando funciones o mejorando la documentación, tus contribuciones son valoradas! Únete a nosotros para hacer de Knai la aplicación preferida para estudiantes universitarios de todo el mundo. 🙌
-
-## 🌟 Comienza con Knai
-¡Descarga Knai hoy mismo y embarcate en un viaje para simplificar tu experiencia universitaria. ¡Vamos a explorar juntos! 🚀
-
-Si necesitas ajustar esta descripción aún más para que se adapte mejor a los objetivos específicos de tu proyecto, ¡no dudes en hacerlo! ¡Feliz desarrollo con Knai! 🎉
+Si deseas contribuir al desarrollo de Knai, ¡tu ayuda es bienvenida! Corrección de errores, nuevas funciones y mejoras en la documentación son apreciadas. ¡Vamos a hacer de Knai la aplicación preferida para estudiantes de todo el mundo! 👨‍💻
